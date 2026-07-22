@@ -1,0 +1,8 @@
+---
+title: "My First R Markdown"
+author: "Latika Sazzala"
+output: pdf_document
+---
+
+## R Markdown
+This is an R Markdown document. markdown is a simple formatting syntax for authoring HTML, PDF, and MS Work documents. For more details on using R Markdown see <https://rmarkdown.rstudio.com>.
